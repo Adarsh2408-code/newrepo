@@ -1,0 +1,2 @@
+# newrepo
+FIRST REOSITARY IN GIT
