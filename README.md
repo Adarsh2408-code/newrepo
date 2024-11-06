@@ -1,2 +1,3 @@
 # newrepo
 FIRST REOSITARY IN GIT
+Authot - Adarsh.....
